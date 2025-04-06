@@ -2,6 +2,8 @@
 ### Record Needle Timer
 Android App for logging playtime of record cartridge.
 
+Language support for english and finnish.
+
 ## Main features
 #### Main view
 * Shows your cartridge info (name, profile, VTF, playtime and max usable hours)
