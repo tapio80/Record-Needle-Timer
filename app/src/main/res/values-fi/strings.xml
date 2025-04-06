@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Record Needle Timer</string>
+    <string name="cartridge_info">Äänirasian tiedot</string>
+    <string name="cartridge">Äänirasia: %1$s</string>
+    <string name="info_profile">Profiili: %1$s</string>
+    <string name="not_set">Ei asetettu</string>
+    <string name="info_vtf">VTF: %1$.1f g</string>
+    <string name="played_time">Soitettu aika: %1$d h %2$d min%3$s</string>
+    <string name="settings_button">Asetukset</string>
+    <string name="_00_00_00">00:00:00</string>
+    <string name="start">Käynnistä</string>
+    <string name="stop">Pysäytä</string>
+    <string name="reset">Nollaa</string>
+    <string name="history">Historia</string>
+    <string name="warning">⚠️ Suositeltu soittoaika ylitetty – harkitse neulan vaihtoa!</string>
+    <string name="settings">Asetukset</string>
+    <string name="dark_mode">Tumma tila</string>
+    <string name="edit_cartridge_info">Muokkaa äänirasian tietoja</string>
+    <string name="empty_history">Tyhjennä historia</string>
+    <string name="history_cleared">Historia tyhjennetty</string>
+    <string name="cartridge_name">Äänirasian nimi</string>
+    <string name="profile">Profiili</string>
+    <string name="vtf">VTF</string>
+    <string name="g">g</string>
+    <string name="max_usable_hours">Maksimi käyttötunnit</string>
+    <string name="compatible_max_value">Syötä kelvollinen luku maksimi tunneiksi</string>
+    <string name="h">h</string>
+    <string name="save">Tallenna</string>
+    <string name="cartridge_info_save">Äänirasian tiedot tallennettu</string>
+    <string name="clear_cartridge_button">Tyhjennä äänirasian tiedot</string>
+    <string name="settings_reset">Asetukset nollattu</string>
+</resources>

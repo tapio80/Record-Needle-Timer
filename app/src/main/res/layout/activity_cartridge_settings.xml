@@ -1,0 +1,95 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="10dp">
+
+    <EditText
+        android:id="@+id/name_input"
+        android:inputType="text"
+        android:autofillHints="Stylus model"
+        android:layout_width="wrap_content"
+        android:layout_height="48dp"
+        android:hint="@string/cartridge_name" />
+
+    <EditText
+        android:id="@+id/profile_input"
+        android:inputType="text"
+        android:autofillHints="Stylus type"
+        android:layout_width="wrap_content"
+        android:layout_height="48dp"
+        android:hint="@string/profile" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <EditText
+            android:id="@+id/vtf_input"
+            android:inputType="numberDecimal"
+            android:autofillHints="Recommended Tracking Force"
+            android:layout_width="48dp"
+            android:layout_height="48dp"
+            android:hint="@string/vtf" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/g"
+            android:textSize="16sp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <EditText
+        android:id="@+id/max_hours_input"
+        android:inputType="number"
+        android:autofillHints="Max Usable Hours"
+        android:layout_width="wrap_content"
+        android:layout_height="48dp"
+        android:hint="@string/max_usable_hours" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/h"
+            android:textSize="16sp" />
+    </LinearLayout>
+
+    <LinearLayout
+        style="?android:attr/buttonBarStyle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:padding="10dp">
+
+        <Button
+            android:id="@+id/save_button"
+            style="Widget.AppCompat.Button.Colored"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/save" />
+    </LinearLayout>
+
+    <LinearLayout
+        style="?android:attr/buttonBarStyle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:padding="10dp">
+
+        <Button
+            android:id="@+id/clear_cartridge_button"
+            style="Widget.AppCompat.Button.Colored"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/clear_cartridge_button" />
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Record Needle Timer</string>
+    <string name="cartridge_info">Cartridge info</string>
+    <string name="cartridge">Cartridge: %1$s</string>
+    <string name="info_profile">Profile: %1$s</string>
+    <string name="not_set">Not set</string>
+    <string name="info_vtf">VTF: %1$.1f g</string>
+    <string name="played_time">Played time: %1$d h %2$d min%3$s</string>
+    <string name="settings_button">Settings</string>
+    <string name="_00_00_00">00:00:00</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="reset">Reset</string>
+    <string name="history">History</string>
+    <string name="warning">⚠️ Recommended playtime exceeded – consider to change the cartridge!</string>
+    <string name="settings">Settings</string>
+    <string name="dark_mode">Dark mode</string>
+    <string name="edit_cartridge_info">Edit cartridge info</string>
+    <string name="empty_history">Empty history</string>
+    <string name="history_cleared">History is emptied</string>
+    <string name="cartridge_name">Cartridge name</string>
+    <string name="profile">Profile</string>
+    <string name="vtf">VTF</string>
+    <string name="g">g</string>
+    <string name="max_usable_hours">Max. usable hours</string>
+    <string name="compatible_max_value">Input compatible value for max hours</string>
+    <string name="h">h</string>
+    <string name="save">Save</string>
+    <string name="cartridge_info_save">Cartridge info is saved</string>
+    <string name="clear_cartridge_button">Clear cartridge info</string>
+    <string name="settings_reset">Settings has been reset</string>
+</resources>

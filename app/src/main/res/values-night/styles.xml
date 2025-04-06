@@ -1,0 +1,5 @@
+<resources>
+    <style name="CartridgeInfoText" parent="TextAppearance.AppCompat.Body1">
+        <item name="android:textColor">?android:textColorPrimary</item>
+    </style>
+</resources>
