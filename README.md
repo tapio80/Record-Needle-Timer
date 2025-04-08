@@ -22,4 +22,4 @@ Language support for english and finnish.
 * Button to clear cartridge info
 ------
 
-![Record Needle Timer screenshot](./images/RNT_main300.png) ![Record Needle Timer screenshot](./images/RNT_settings300.png) ![Record Needle Timer screenshot](./images/RNT_cartridge300.png)
+![Record Needle Timer screenshot](./images/RNT_main250.png) ![Record Needle Timer screenshot](./images/RNT_settings250.png) ![Record Needle Timer screenshot](./images/RNT_cartridge250.png)
